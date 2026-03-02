@@ -1,0 +1,3 @@
+[submodule "factory"]
+	path = factory
+	url = git@github.com:pieter-groenendijk/sifaka-dev-landingsite.git
