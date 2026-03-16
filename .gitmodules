@@ -1,3 +1,3 @@
 [submodule "factory"]
-	path = factory
+	path = subsys-frontend-factory
 	url = git@github.com:pieter-groenendijk/sifaka-dev-landingsite.git
